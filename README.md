@@ -6,10 +6,6 @@ ChatGPT Clone is a fully functional clone of ChatGPT, an AI-powered chatbot, bui
 
 **Try it now:** https://chat-clone-gpt.vercel.app/
 
-🎥 **Watch the Demo Video**
-
-[![Demo Video](./demo-screenshot.png)](https://www.loom.com/share/ff91d8df35b7479a8da6ad41da05c4c8)
-
 ## Technology Choices
 
 ChatGPT Clone utilizes the following technologies:
